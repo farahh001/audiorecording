@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478048685499",
+    "project_id": "audiotest-2ecc9",
+    "storage_bucket": "audiotest-2ecc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478048685499:android:db011914aef72e0c31c89e",
+        "android_client_info": {
+          "package_name": "com.gyakhoe.upload_to_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478048685499-d4se1kbbi23md718vkg5sjoe1vdhlc1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9R9dbT2rLAKvlCmOIFoXWNLmvFzRsz80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478048685499-d4se1kbbi23md718vkg5sjoe1vdhlc1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

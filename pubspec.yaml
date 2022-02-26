@@ -1,0 +1,37 @@
+name: upload_to_firebase
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers:  ^0.20.1
+  cupertino_icons:  ^1.0.4
+  firebase_core: ^1.11.0
+  firebase_storage: ^10.2.7
+  firebase_auth: ^3.3.5
+  cloud_firestore: ^3.1.6
+
+
+  flutter_audio_recorder2:
+
+
+
+  path_provider:
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
